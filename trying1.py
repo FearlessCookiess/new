@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 guess = (input('choose from 3 color: "red", "grean", "blue": '))
@@ -11,3 +12,6 @@ else:
     print('try again')
 
 
+=======
+print('jast want to see if it work in git')
+>>>>>>> origin/main
